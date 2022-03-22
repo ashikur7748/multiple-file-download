@@ -1,4 +1,5 @@
 
+//resource link: https://www.allphptricks.com/demo/2018/april/create-zip-file-using-php/
 public function ZipCreateAndMultipleFileDownload($files){ 
 
        $filearrayconvert = explode(",", $files);
